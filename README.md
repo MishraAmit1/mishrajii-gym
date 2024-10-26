@@ -32,3 +32,8 @@ mishrajii-gym/
 ├── admin/                # Admin dashboard and related functionalities
 ├── users/                # User pages and profile management
 └── index.php             # Main entry point
+```
+## Installation Guide
+**Prerequisites**
+- Install XAMPP to run PHP and MySQL locally.
+- Install a code editor like VS Code.
